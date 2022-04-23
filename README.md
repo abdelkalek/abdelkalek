@@ -18,7 +18,7 @@ I am a software developer with a special focus on Microsoft .NET And Angular
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/guedri-abdelkhalek-01617483/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guedri-abdelkhalek-01617483/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guedri-abdelkhalek-01617483/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guedri-abdelkhalek-01617483/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100001076035501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100001076035501" height="30" width="40" /></a>
 <a href="mailto:abdelkalek@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/10207039/164888046-f1783757-9e68-4a22-941d-fc29c4bdab1f.png" height="40" /></a>
 
