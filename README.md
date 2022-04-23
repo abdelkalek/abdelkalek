@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelkalek</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdelkalek</h1>
 
   ```
 I am a software developer with a special focus on Microsoft .NET And Angular 
@@ -11,8 +11,10 @@ I am a software developer with a special focus on Microsoft .NET And Angular
 
 
 
-## - 💬 Ask me about **DotNetCore Anguarl** ##
-## - 📫 You Can send me  **abdelkalek@gmail.com** ##
+![](https://komarev.com/ghpvc/?username=abdelkalek) ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdelkalek.abdelkalek)
+ 
+## - 💬 Ask me about **DotNetCore Angular** ##
+## - 📧 Contact me **abdelkalek@gmail.com** ##
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
