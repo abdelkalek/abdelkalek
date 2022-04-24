@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdelkalek</h1>
+![DotNETCoreBannerLatest](https://user-images.githubusercontent.com/10207039/164979691-1114ec83-9ac3-4cb1-aa6a-592422ddd290.jpg)
+
+
+<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdelkalek</h1>
 
   ```
 I am a software developer with a special focus on Microsoft .NET And Angular 
