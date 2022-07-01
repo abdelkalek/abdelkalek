@@ -2,16 +2,17 @@
 ![Bnnerdotnet-core](https://user-images.githubusercontent.com/10207039/165000697-0ada3c57-7ff9-41ea-a37a-a6d7d7c602fc.svg)
 
 
+<h4  ><img src="https://user-images.githubusercontent.com/10207039/176966269-e50e04a9-e38c-4e7b-a67e-459ee12596a6.png"/>Abdelkhalek</h4>
 
-<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdelkalek</h1>
-
+<p>
   ```
 I am a software developer with a special focus on Microsoft .NET And Angular 
 ```
+</p>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkalek"> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/10207039/164888699-f756e0a4-e9c9-47e5-b9ba-e7291a64050e.png" width="400"  />
+<img src="https://user-images.githubusercontent.com/10207039/164888699-f756e0a4-e9c9-47e5-b9ba-e7291a64050e.png" width="70"  />
 </div>
 
 
