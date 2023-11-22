@@ -6,7 +6,7 @@
 
 <p>
   ```
-I am a software developer with a special focus on Microsoft .NET And Angular 
+I am a software developer with a special focus on Java Spring boot And Angular 
 ```
 </p>
 <div>
@@ -19,7 +19,7 @@ I am a software developer with a special focus on Microsoft .NET And Angular
 
 ![](https://komarev.com/ghpvc/?username=abdelkalek) ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdelkalek.abdelkalek)
  
-## - 💬 Ask me about **DotNetCore Angular** ##
+## - 💬 Ask me about **JAVA | Spring boot |  Angular** ##
 ## - 📧 Contact me **abdelkalek@gmail.com** ##
 
 <h3 align="left">Connect with me:</h3>
