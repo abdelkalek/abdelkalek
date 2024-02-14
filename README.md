@@ -1,5 +1,7 @@
 <p>
-Ingénieur en Génie Logiciel spécialisé en Fullstack Java Spring Boot Angular, je suis passionné par l'innovation dans le domaine du développement logiciel. Avec une formation académique solide et une expérience pratique diversifiée, j'ai acquis des compétences robustes en développement Java, ainsi qu'une familiarité étendue avec les technologies Angular, Spring Boot, et d'autres frameworks essentiels pour un développeur Full Stack. je reste ouvert à l'apprentissage et aux défis stimulants. 
+Ingénieur en Génie Logiciel spécialisé en Fullstack Java Spring Boot Angular, je suis passionné par l'innovation dans le domaine du développement logiciel.
+Avec une formation académique solide et une expérience pratique diversifiée, j'ai acquis des compétences robustes en développement Java, ainsi qu'une familiarité étendue avec les technologies Angular, Spring Boot, et d'autres frameworks essentiels pour un développeur Full Stack. 
+je reste ouvert à l'apprentissage et aux défis stimulants. 
 </p>
 
 
