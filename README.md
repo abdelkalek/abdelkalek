@@ -1,9 +1,9 @@
-<h1>
+<p>
 Ingénieur en Génie Logiciel spécialisé en Fullstack Java Spring Boot Angular, je suis passionné par l'innovation dans le domaine du développement logiciel. Avec une formation académique solide et une expérience pratique diversifiée, j'ai acquis des compétences robustes en développement Java, ainsi qu'une familiarité étendue avec les technologies Angular, Spring Boot, et d'autres frameworks essentiels pour un développeur Full Stack. Actuellement à la recherche de nouvelles opportunités professionnelles, je reste ouvert à l'apprentissage et aux défis stimulants. 
-</h1>
+</p>
 
 
-![](https://komarev.com/ghpvc/?username=abdelkalek) ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdelkalek.abdelkalek)
+![](https://komarev.com/ghpvc/?username=abdelkalek) 
  
 ## - 🚀**JAVA | Spring boot |  Angular** ##
 ## - 📧 Contact me **abdelkalek@gmail.com** ##
