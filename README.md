@@ -1,17 +1,11 @@
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<h2><img src="https://user-images.githubusercontent.com/10207039/176966269-e50e04a9-e38c-4e7b-a67e-459ee12596a6.png"/>  Abdelkhalek</h2>
-
-<h1>
-I am a software developer with a special focus on Java Spring boot And Angular 
+Ingénieur en Génie Logiciel spécialisé en Fullstack Java Spring Boot Angular, je suis passionné par l'innovation dans le domaine du développement logiciel. Avec une formation académique solide et une expérience pratique diversifiée, j'ai acquis des compétences robustes en développement Java, ainsi qu'une familiarité étendue avec les technologies Angular, Spring Boot, et d'autres frameworks essentiels pour un développeur Full Stack. Actuellement à la recherche de nouvelles opportunités professionnelles, je reste ouvert à l'apprentissage et aux défis stimulants. 
 </h1>
 
 
 ![](https://komarev.com/ghpvc/?username=abdelkalek) ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdelkalek.abdelkalek)
  
-## - 🚀 Ask me about **JAVA | Spring boot |  Angular** ##
+## - 🚀**JAVA | Spring boot |  Angular** ##
 ## - 📧 Contact me **abdelkalek@gmail.com** ##
 
 <h3 align="left">Connect with me:</h3>
