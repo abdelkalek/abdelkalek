@@ -2,22 +2,14 @@
 
 <h2><img src="https://user-images.githubusercontent.com/10207039/176966269-e50e04a9-e38c-4e7b-a67e-459ee12596a6.png"/>  Abdelkhalek</h2>
 
-<p>
-  ```
+<h1>
 I am a software developer with a special focus on Java Spring boot And Angular 
-```
-</p>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkalek"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/10207039/164888699-f756e0a4-e9c9-47e5-b9ba-e7291a64050e.png" width="70"  />
-</div>
-
+</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=abdelkalek) ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdelkalek.abdelkalek)
  
-## - 💬 Ask me about **JAVA | Spring boot |  Angular** ##
+## - 🚀 Ask me about **JAVA | Spring boot |  Angular** ##
 ## - 📧 Contact me **abdelkalek@gmail.com** ##
 
 <h3 align="left">Connect with me:</h3>
